@@ -32,6 +32,5 @@ int main(){
     //! back() function to get the last element of Array
     cout<<"The last element of Array a is "<<a.back()<<endl;
 
-
     return 0;
 }
